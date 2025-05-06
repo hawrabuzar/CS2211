@@ -1,0 +1,161 @@
+Script started on 2025-02-05 23:06:19-05:00 [TERM="xterm-256color" TTY="/dev/pts/80" COLUMNS="133" LINES="33"]
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn2$ ./converter
+[?2004l1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+1 w
+Invalid
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+7
+Invalid
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+1
+C for Celsius to Fahrenheit
+F for Fahrenheit to Celsius: g
+Invalid choice Enter: 
+C: Celsius to Fahrenheit
+F: Fahrenheit to Celsius
+7
+Invalid choice Enter: 
+C: Celsius to Fahrenheit
+F: Fahrenheit to Celsius
+C
+Enter number in °C: 12
+Result: 12.00°C = 53.60°F
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+1
+C for Celsius to Fahrenheit
+F for Fahrenheit to Celsius: F
+Enter number in °F: 53.60
+Result: 53.60°F = 12.00°C
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+2
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre: C
+Enter number in cm: 12.0
+Result: 12.00cm = 4.724409inches
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+2
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre: I
+Enter number in Inch: 4.72
+Result: 4.72inches = 11.99cm
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+2
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre: I 6
+Invalid choice Enter: 
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre:
+I
+Enter number in Inch: 60
+Result: 60.00inches = 152.40cm
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+3
+K for conversion from Kilogram to Pound
+P for conversion from Pound to Kilogram: f
+Invalid choice Enter: 
+K for conversion from Kilogram to Pound
+P for conversion from Pound to Kilogram
+7
+Invalid choice Enter: 
+K for conversion from Kilogram to Pound
+P for conversion from Pound to Kilogram
+K
+Enter number kg: 12
+Result: 12.00kg = 26.46lb
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+3
+K for conversion from Kilogram to Pound
+P for conversion from Pound to Kilogram: P
+Enter number in lb: 26.46
+Result: 26.46lb = 12.00kg
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+4
+M for conversion from Meter to Feet
+F for conversion from Feet to Meter: r
+Invalid choice Enter: 
+M for conversion from Meter to Feet
+F for conversion from Feet to Meter: 
+5
+Invalid choice Enter: 
+M for conversion from Meter to Feet
+F for conversion from Feet to Meter: 
+M
+Enter number in m: 12
+Result: 12.00m = 39.37ft
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+4
+M for conversion from Meter to Feet
+F for conversion from Feet to Meter: F
+Enter number in ft: 39.37
+Result: 39.37ft= 12.00m
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+exit
+Invalid
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+Invalid
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+Invalid
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+Invalid
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+q
+Quitting Program.
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn2$ /[K./converter
+[?2004l1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilogram and Pound
+4 for conversion between Meter and Feet
+Q
+Quitting Program.
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn2$ exit
+[?2004lexit
+
+Script done on 2025-02-05 23:09:22-05:00 [COMMAND_EXIT_CODE="0"]

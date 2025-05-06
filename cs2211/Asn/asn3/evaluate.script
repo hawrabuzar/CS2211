@@ -1,0 +1,29 @@
+Script started on 2025-02-27 18:13:53-05:00 [TERM="xterm-256color" TTY="/dev/pts/52" COLUMNS="64" LINES="32"]
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn3$ ./evaluate
+[?2004lEnter expression: 6
+Final Answer: 6.000000
+Do you want to keep going?(Y/N): Y
+Enter expression: 2*4
+Final Answer: 8.000000
+Do you want to keep going?(Y/N): Y
+Enter expression: 5/-5 2
+Final Answer: -2.500000
+Do you want to keep going?(Y/N): Y
+Enter expression: 2.6/ *2/1.6/10
+Final Answer: 0.325000
+Do you want to keep going?(Y/N): Y
+Enter expression: -2.0*+20*1.6* /10/100
+Final Answer: -0.064000
+Do you want to keep going?(Y/N): Y
+Enter expression: 2.6/-1.6*10*20 .0*2/2
+Final Answer: -32.499996
+Do you want to keep going?(Y/N): Y
+Enter expression: 2+4
+Error: Invalid operator '+'.
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn3$ ./evaluate
+[?2004lEnter expression: W
+Error: Invalid number.
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn3$ ./evaluate[Kexit
+[?2004lexit
+
+Script done on 2025-02-27 18:15:35-05:00 [COMMAND_EXIT_CODE="1"]

@@ -1,0 +1,39 @@
+Script started on 2025-02-05 23:14:17-05:00 [TERM="xterm-256color" TTY="/dev/pts/80" COLUMNS="133" LINES="33"]
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn2$ ./calculator
+[?2004lEnter a number as the exponent: 
+1
+2^1 = 2
+Enter a number as the exponent: 
+2
+2^2 = 4
+Enter a number as the exponent: 
+3
+2^3 = 8
+Enter a number as the exponent: 
+4
+2^4 = 16
+Enter a number as the exponent: 
+5
+2^5 = 32
+Enter a number as the exponent: 
+6
+2^6 = 64
+Enter a number as the exponent: 
+7
+2^7 = 128
+Enter a number as the exponent: 
+8
+2^8 = 256
+Enter a number as the exponent: 
+9
+2^9 = 512
+Enter a number as the exponent: 
+10
+2^10 = 1024
+Enter a number as the exponent: 
+0
+2^0=1
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn2$ exit
+[?2004lexit
+
+Script done on 2025-02-05 23:14:38-05:00 [COMMAND_EXIT_CODE="0"]

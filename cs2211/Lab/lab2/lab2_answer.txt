@@ -1,0 +1,13 @@
+A. Have you read “CS2211 Assignment Submission Guidelines”
+Yes (x)
+No ( )
+B. Have you filled in the information required for “CS2211 Academic Consideration
+Form”?
+Yes (x)
+No ( )
+B. Have you filled in the first six lines required for “lab2 answer.pdf”?
+Yes (x)
+No ( )
+C. Have you filled in the first six lines required for “Hello.c”?
+Yes (x)
+No ( )

@@ -1,0 +1,47 @@
+1a)
+An operating system is the software which supports a computer's hardware and software. It handles tasks such as running programs, managing files, providing a user interface, and so on. Some examples of operating systems are Windows, MacOS, IOS, and Android.
+
+1b)
+The kernel is the core component of an operating system that manages the communication between the hardware and software. It makes sure that different parts of a computer such as the CPU and memory are used efficiently.
+
+1c)
+In the Unix operating system, the shell is a program that acts as a bridge between the user and kernel in the form of an interface. It reads and executes commands and is used to “communicate” with the operating system. An example of a shell in Linux is Bash.
+
+2.1)create two directories, df1 and df2, and two text files, tf1 and tf2.
+
+        mkdir df1 df2
+        touch tf1 tf2
+
+2.2)create a text file df1.
+        Assuming we are in ∼/courses/cs2211/Asn/asn1/q2q3
+        cd df1
+        touch df1
+
+2.3)In df2 (i.e. ∼/courses/cs2211/Asn/asn1/q2q3/df2), create a directory tf1.
+        Assuming we are in ∼/courses/cs2211/Asn/asn1/q2q3
+        cd df2
+        Mkdir tf1
+
+
+2a) What command do you use to create a directory?
+
+mkdir
+
+2b) What command do you use to create a text file?
+
+touch
+
+3a) What is the result of command /usr/bin/ls df2 df1 tf2 tf1?
+tf1  tf2
+
+df1:
+df1
+
+df2:
+tf1
+
+3b) In order to see all the permissions we can use “-lah”
+
+3c)In order to see the permissions without the contents we can use “-dl” or “-ld” since order does not matter
+
+3d) Despite the “.” at the end both commands compute the same output. This is because the first command assumes the default directory while the second one explicitly states the directory. In some instances adding the “.” can cause differences in the output but overall it is the same.

@@ -1,0 +1,15 @@
+Script started on 2025-01-22 21:59:15-05:00 [TERM="xterm-256color" TTY="/dev/pts/14" COLUMNS="64" LINES="32"]
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn1$ date
+[?2004lWed Jan 22 09:59:19 PM EST 2025
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn1$ whoami
+[?2004lhabuzar
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn1$ pwd
+[?2004l/home/habuzar/courses/cs2211/Asn/asn1
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn1$ ls
+[?2004lasn1  asn1.c  asn1_q3.script  asn1_q4.script  q2q3
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn1$ ./asn1
+[?2004lHello CS2211 2025!
+[?2004hhabuzar@compute:~/courses/cs2211/Asn/asn1$ exit
+[?2004lexit
+
+Script done on 2025-01-22 21:59:57-05:00 [COMMAND_EXIT_CODE="0"]
